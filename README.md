@@ -1,7 +1,7 @@
 # Blast_Bypass
 Blasting tool that simulates manual login.
 
-## This is a python3 script。
+## This is a python3 script.
 
 #### pyenv need install module
 ```
