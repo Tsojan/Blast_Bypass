@@ -131,7 +131,7 @@ def start(name_location_key,name_file,pass_location_key,pass_file,display,type,u
 
 if __name__ == "__main__":#入口
     print('+------------------------------------------')
-    print('+  \033[35m灼剑安全 by beard林                                   \033[0m')
+    print('+  \033[35m灼剑安全（Tsojan）安全团队 by beard林                                   \033[0m')
     print('+  \033[34m工具名：Blast_Bypass V1.0\033[0m')
     print('+  \033[36m使用格式:  python3 Blast_Bypass.py --nk mame_location --nf name.txt \033[0m')
     print('+  \033[36m --pk passwd_location --pf password.txt --d --type id --e xxx --url http://xxxx/xx\033[0m')
